@@ -4,6 +4,7 @@ Un dossier "SYNC" est créé et contient les fichiers vidéos après rendu.
 
 # REQUIS
 Ce script nécessite python3 ainsi que le paquet mkvmerge.
+Fonctionne sur les distributions Debian
 
 # UTILISATION
 Le script doit se trouver dans le dossier contenant les fichiers à synchroniser.
